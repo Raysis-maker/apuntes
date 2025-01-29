@@ -20,5 +20,7 @@ Una vez abierto VS pasaremos al siguiente punto de la lista.
 
 Dentro de **Visual Studio** abriremos nuestro terminal, lo configuraremos de la siguiente forma para que trabaje con **Git** en vez de con **PowerShell**:
 
+![alt text](img/consola1.png)
 
+![alt text](img/consola2.png)
 
